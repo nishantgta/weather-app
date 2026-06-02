@@ -1,0 +1,66 @@
+.page-body{
+    /* height: 90vh; */
+    padding-left: 14vh;
+    padding-top: 10px;
+    background-color: rgb(226,226,226);
+    flex-grow: 1;
+}
+
+.selected-city-box{
+    width: 300px;
+    height: 150px; 
+    background-color: rgb(154, 215, 235);
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+
+.today-forecast-box{
+    width: 600px;
+    height: 150px;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.other-city{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.current-city-info{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.other-cities-info-row-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.other-cities-info-row-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.date-in-box{
+    margin-top: -12px;
+    font-size:12px;
+}
+
+.temperature-label{
+    margin-top: -8px;
+}

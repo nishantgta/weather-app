@@ -1,0 +1,42 @@
+.top-header{
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-icon-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 8vh;
+}
+
+/* .element{
+    display: inline-block;
+} */
+
+.header-img{
+    margin-left: 8vh;
+    height: 10vh;
+    border-radius: 25px;
+}
+
+.temp-buttons{
+    position: absolute;
+    right: 8vh;
+}
+
+.input-field{
+    width:280px;
+    height:20px;
+}
+
+/* .fahrenheit-button{
+    position: absolute;
+    right: 0;
+    margin-right: 8vh;
+} */
