@@ -11,6 +11,7 @@ export default function PageBody(){
                     <h3 className="temperature-label">24°C</h3>
                 </div>
                 <div className="today-forecast-box">
+                    <div className="today-forecast-title">Today's Forecast</div>
                 </div>
             </div>
             <h4>Weather in Other Cities</h4>

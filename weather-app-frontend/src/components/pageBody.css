@@ -64,3 +64,9 @@
 .temperature-label{
     margin-top: -8px;
 }
+
+.today-forecast-title{
+    font-size: 13px;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}
