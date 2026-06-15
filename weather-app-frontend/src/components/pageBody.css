@@ -70,3 +70,17 @@
     font-weight: bold;
     border-bottom: 1px solid;
 }
+
+.today-forecast-times{
+    display: flex;
+}
+
+.time-box{
+    flex: 1;
+    border-right: 1px solid black;
+}
+
+.temp-in-box{
+    font-size: 22px;
+    font-weight: 500;
+}

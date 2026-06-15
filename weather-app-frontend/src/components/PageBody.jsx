@@ -12,6 +12,72 @@ export default function PageBody(){
                 </div>
                 <div className="today-forecast-box">
                     <div className="today-forecast-title">Today's Forecast</div>
+                    <div className="today-forecast-times">
+                        <div className="time-box box-1">
+                            <div className="time box-1">
+                                Now
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-2">
+                            <div className="time box-1">
+                                11 AM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-3">
+                            <div className="time box-1">
+                                12 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-4">
+                            <div className="time box-1">
+                                1 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-5">
+                            <div className="time box-1">
+                                2 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-6">
+                            <div className="time box-1">
+                                3 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-7">
+                            <div className="time box-1">
+                                4 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                        <div className="time-box box-8">
+                            <div className="time box-1">
+                                5 PM
+                            </div>
+                            <div className="temp-in-box box-1">
+                                24°C
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <h4>Weather in Other Cities</h4>
